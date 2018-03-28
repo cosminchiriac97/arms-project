@@ -1,0 +1,11 @@
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\bin\Debug\netcoreapp2.0\Bussiness.deps.json
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\bin\Debug\netcoreapp2.0\Bussiness.dll
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\obj\Debug\netcoreapp2.0\Bussiness.csprojResolveAssemblyReference.cache
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\obj\Debug\netcoreapp2.0\Bussiness.csproj.CoreCompileInputs.cache
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\obj\Debug\netcoreapp2.0\Bussiness.AssemblyInfoInputs.cache
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\obj\Debug\netcoreapp2.0\Bussiness.AssemblyInfo.cs
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\bin\Debug\netcoreapp2.0\Bussiness.pdb
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\obj\Debug\netcoreapp2.0\Bussiness.dll
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\obj\Debug\netcoreapp2.0\Bussiness.pdb
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\bin\Debug\netcoreapp2.0\Data.dll
+D:\FacultateChiriac\An3Sem2\ARMS\RealEstate\Bussiness\bin\Debug\netcoreapp2.0\Data.pdb
