@@ -1,7 +1,9 @@
 # arms-project
 Proiect realizat la materia ARMS (Analiza retelelor media-sociale)
 Echipa:
+
 1.Chiriac Cosmin
+
 2.Guler Afanasie
 
 Abstract
